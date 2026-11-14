@@ -1,0 +1,6 @@
+{
+  "name": "VelocityCut",
+  "description": "Mobile video speed multiplier, multi-layer compositing, and sound timeline editor with repeatable CapCut-style speed presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

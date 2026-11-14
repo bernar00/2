@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VelocityCut</string>
+    <string name="export_cta">Export</string>
+    <string name="import_video">Import Video</string>
+    <string name="add_video_layer">Add Layer</string>
+    <string name="add_audio">Add Sound</string>
+    <string name="speed_studio_title">Speed Multiplier</string>
+    <string name="speed_presets_capcut">CapCut &amp; Speed Presets</string>
+    <string name="speed_custom_label">Custom Number</string>
+    <string name="speed_apply_pass">Stack Speed</string>
+    <string name="speed_bake_repeat">Bake &amp; Repeat</string>
+    <string name="layer_studio_title">Video Layer (PiP)</string>
+    <string name="sound_studio_title">Sound Studio</string>
+    <string name="clip_actions_title">Clip Tools</string>
+    <string name="empty_stage_title">Drop Your First Clip</string>
+    <string name="empty_stage_subtitle">Stack 2x, 5.4.0, 7.50, 5.5.0 speeds endlessly, layer videos, and sculpt sound on a tactile timeline.</string>
+</resources>
